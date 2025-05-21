@@ -51,7 +51,7 @@ class _LoginPageState extends State<LoginPage> {
                 children: [
                   const SizedBox(height: 8),
                   const Text(
-                    'Bienvenue,\nAliou',
+                    'Bienvenue,\nUtilisateur',
                     textAlign: TextAlign.center,
                     style: TextStyle(
                       fontSize: 24,
